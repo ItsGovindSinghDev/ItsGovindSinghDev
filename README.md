@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c29,50:F09819,100:FF512F&height=220&section=header&text=GOVIND%20SINGH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%9D%96%20DevOps%20Engineer%20%E2%9D%96%20UI/UX%20Designer&descAlignY=62&descSize=16" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c29,50:F09819,100:FF512F&height=220&section=header&text=GOVIND%20SINGH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%9D%96%20DevOps%20Engineer%20%E2%9D%96%20UI/UX%20Designer&descAlignY=62&descSize=16" width="100%"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=F09819&center=true&vCenter=true&width=650&lines=Building+modern+web+applications+%F0%9F%9A%80;Automating+infrastructure+with+DevOps+%E2%98%81%EF%B8%8F;Designing+clean%2C+usable+interfaces+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%A1" alt="Typing SVG"/>
+<a><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=F09819&center=true&vCenter=true&width=650&lines=Building+modern+web+applications+%F0%9F%9A%80;Automating+infrastructure+with+DevOps+%E2%98%81%EF%B8%8F;Designing+clean%2C+usable+interfaces+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%A1" alt="Typing SVG"/></a>
 
 <br/>
 
-[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-blueviolet?style=for-the-badge&logo=github)](https://github.com/GovindSingh3011)
-[![GitHub Views](https://komarev.com/ghpvc/?username=GovindSingh3011&label=VISITORS&color=F09819&style=for-the-badge)](https://github.com/GovindSingh3011)
+<a><img src="https://img.shields.io/badge/PROFILE%20VIEWS-blueviolet?style=for-the-badge&logo=github"/></a>
+<a><img src="https://komarev.com/ghpvc/?username=GovindSingh3011&label=VISITORS&color=F09819&style=for-the-badge"/></a>
 
 </div>
 
@@ -52,7 +52,7 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 ## ⚡ What I Do
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&width=1000" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&width=1000" width="100%"/></a>
 
 <br/>
 
@@ -70,60 +70,60 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 ### 💻 Languages & Frontend
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
 
 <br/>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/></a>
 
 <br/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
 
 <br/>
 
 ### 🛠️ Tools & Environments
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindSingh3011&theme=github_dark" width="46%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GovindSingh3011&theme=github_dark" width="46%"/>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindSingh3011&theme=github_dark" width="46%"/></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GovindSingh3011&theme=github_dark" width="46%"/></a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh3011&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="85%"/>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh3011&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="85%"/></a>
 
 </div>
 
@@ -147,6 +147,6 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:F09819,100:1a1c29&height=120&section=footer" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:F09819,100:1a1c29&height=120&section=footer" width="100%"/></a>
 
 </div>
