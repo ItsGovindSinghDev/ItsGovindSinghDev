@@ -22,7 +22,7 @@
     <td width="50%" valign="top">
       <h3>🎓 Background & Education</h3>
       <ul>
-        <li><b>Degree:</b> Computer Science Graduate</li>
+        <li><b>Degree:</b> B.Tech in Computer Science & Engineering</li>
         <li><b>Core Focus:</b> Software Engineering, Cloud Architecture & UI/UX</li>
         <li><b>Philosophy:</b> Build functional, efficient, and user-centric software</li>
       </ul>
@@ -42,7 +42,7 @@
 
 ## 🔥 About Me
 
-I am a passionate Computer Science graduate with a strong focus on software development, cloud computing, DevOps, and UI/UX design.
+I hold a B.Tech degree in Computer Science & Engineering with a strong focus on software development, cloud computing, DevOps, and UI/UX design.
 
 My journey began with core programming and expanded into full-stack web development — building responsive, scalable applications with modern frameworks. That drive led me into cloud computing and DevOps practices, where I gained hands-on experience with **AWS, Docker, Kubernetes, Terraform,** and **Ansible**.
 
