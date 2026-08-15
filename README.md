@@ -118,12 +118,12 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindSingh3011&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GovindSingh3011&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindSingh3011&theme=github_dark" width="46%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GovindSingh3011&theme=github_dark" width="46%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh3011&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh3011&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="85%"/>
 
 </div>
 
