@@ -9,7 +9,7 @@
 <br/>
 
 <a href="#quick-overview"><img src="https://img.shields.io/badge/PROFILE%20VIEWS-blueviolet?style=for-the-badge&logo=github"/></a>
-<a href="#quick-overview"><img src="https://komarev.com/ghpvc/?username=GovindSingh3011&label=VISITORS&color=F09819&style=for-the-badge"/></a>
+<a href="#quick-overview"><img src="https://komarev.com/ghpvc/?username=ItsGovindSinghDev&label=VISITORS&color=F09819&style=for-the-badge"/></a>
 
 </div>
 
@@ -123,12 +123,12 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 <div align="center">
 
-<a href="#github-analytics"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GovindSingh3011&theme=github_dark" width="46%"/></a>
-<a href="#github-analytics"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GovindSingh3011&theme=github_dark" width="46%"/></a>
+<a href="#github-analytics"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsGovindSinghDev&theme=github_dark" width="46%"/></a>
+<a href="#github-analytics"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsGovindSinghDev&theme=github_dark" width="46%"/></a>
 
 <br/>
 
-<a href="#github-analytics"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh3011&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="85%"/></a>
+<a href="#github-analytics"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsGovindSinghDev&theme=dark&hide_border=true&background=0D1117&ring=F09819&fire=FF512F&currStreakNum=F09819&currStreakLabel=F09819&sideNums=F09819&sideTitle=F09819&dates=C9D1D9&border_radius=8" width="85%"/></a>
 
 </div>
 
@@ -139,7 +139,7 @@ I thrive on projects at the intersection of **development, design, and infrastru
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindsingh3011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ItsGovindSinghDev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindrawat3011@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://govindsingh.vercel.app)
 
