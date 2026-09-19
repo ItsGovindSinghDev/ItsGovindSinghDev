@@ -5,14 +5,7 @@
 <br/>
 
 <a href="#about-me"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=F09819&center=true&vCenter=true&width=650&lines=Building+modern+web+applications+%F0%9F%9A%80;Automating+infrastructure+with+DevOps+%E2%98%81%EF%B8%8F;Designing+clean%2C+usable+interfaces+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%A1" alt="Typing SVG"/></a>
-
-<br/>
-
-<a href="#quick-overview"><img src="https://img.shields.io/badge/PROFILE%20VIEWS-blueviolet?style=for-the-badge&logo=github"/></a>
-<a href="#quick-overview"><img src="https://komarev.com/ghpvc/?username=ItsGovindSinghDev&label=VISITORS&color=F09819&style=for-the-badge"/></a>
-
 </div>
-
 <br/>
 
 <a id="quick-overview"></a>
